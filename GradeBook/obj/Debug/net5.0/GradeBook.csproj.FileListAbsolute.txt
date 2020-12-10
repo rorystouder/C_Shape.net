@@ -1,0 +1,16 @@
+C:\Users\rory.stouder\github\C_Sharp.net\GradeBook\bin\Debug\net5.0\GradeBook.exe
+C:\Users\rory.stouder\github\C_Sharp.net\GradeBook\bin\Debug\net5.0\GradeBook.deps.json
+C:\Users\rory.stouder\github\C_Sharp.net\GradeBook\bin\Debug\net5.0\GradeBook.runtimeconfig.json
+C:\Users\rory.stouder\github\C_Sharp.net\GradeBook\bin\Debug\net5.0\GradeBook.runtimeconfig.dev.json
+C:\Users\rory.stouder\github\C_Sharp.net\GradeBook\bin\Debug\net5.0\GradeBook.dll
+C:\Users\rory.stouder\github\C_Sharp.net\GradeBook\bin\Debug\net5.0\ref\GradeBook.dll
+C:\Users\rory.stouder\github\C_Sharp.net\GradeBook\bin\Debug\net5.0\GradeBook.pdb
+C:\Users\rory.stouder\github\C_Sharp.net\GradeBook\obj\Debug\net5.0\GradeBook.csprojAssemblyReference.cache
+C:\Users\rory.stouder\github\C_Sharp.net\GradeBook\obj\Debug\net5.0\GradeBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rory.stouder\github\C_Sharp.net\GradeBook\obj\Debug\net5.0\GradeBook.AssemblyInfoInputs.cache
+C:\Users\rory.stouder\github\C_Sharp.net\GradeBook\obj\Debug\net5.0\GradeBook.AssemblyInfo.cs
+C:\Users\rory.stouder\github\C_Sharp.net\GradeBook\obj\Debug\net5.0\GradeBook.csproj.CoreCompileInputs.cache
+C:\Users\rory.stouder\github\C_Sharp.net\GradeBook\obj\Debug\net5.0\GradeBook.dll
+C:\Users\rory.stouder\github\C_Sharp.net\GradeBook\obj\Debug\net5.0\ref\GradeBook.dll
+C:\Users\rory.stouder\github\C_Sharp.net\GradeBook\obj\Debug\net5.0\GradeBook.pdb
+C:\Users\rory.stouder\github\C_Sharp.net\GradeBook\obj\Debug\net5.0\GradeBook.genruntimeconfig.cache

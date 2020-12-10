@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\rory.stouder\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\rory.stouder\\.nuget\\packages"
+    ]
+  }
+}
