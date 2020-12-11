@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rory.stouder\\github\\C_Sharp.net\\GradeBook\\GradeBook.csproj",
+      "projectUniqueName": "C:\\users\\rory.stouder\\github\\C_Sharp.net\\src\\GradeBook\\GradeBook.csproj",
       "projectName": "GradeBook",
-      "projectPath": "C:\\Users\\rory.stouder\\github\\C_Sharp.net\\GradeBook\\GradeBook.csproj",
+      "projectPath": "C:\\users\\rory.stouder\\github\\C_Sharp.net\\src\\GradeBook\\GradeBook.csproj",
       "packagesPath": "C:\\Users\\rory.stouder\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rory.stouder\\github\\C_Sharp.net\\GradeBook\\obj\\",
+      "outputPath": "C:\\users\\rory.stouder\\github\\C_Sharp.net\\src\\GradeBook\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rory.stouder\\AppData\\Roaming\\NuGet\\NuGet.Config",
